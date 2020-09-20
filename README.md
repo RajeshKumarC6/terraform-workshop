@@ -76,3 +76,4 @@ provider "aws" {
 - Go to https://console.aws.amazon.com/ec2/v2/home and you should see `Running Instances` `1`
 - Go back to your console, and run `terraform destroy` — Again, at the prompt, type `yes`
 - Go back to https://console.aws.amazon.com/ec2/v2/home and you should see `Running Instances` `0`
+
