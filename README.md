@@ -55,7 +55,7 @@ Treat these *with care*!
 
 - Follow the steps [here](https://learn.hashicorp.com/terraform/getting-started/install.html)
 
-### Clone this repository
+###Clone this repository
 
 - Go to the location where you cloned this repository
 - Modify `0000-setup/main.tf` and modify the `provider` block with your `Access key ID` and `Secret access key` like so
